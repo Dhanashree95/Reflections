@@ -29,6 +29,7 @@ adding a version of it by "git add filename"and commit it by "git commit" after 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+to create minor differences in the logic but keep the rest same keeping in mind that the original correct version is not modified.
 
 How do the diagrams help you visualize the branch structure?
 
